@@ -1,5 +1,8 @@
 <p align="center">
+  <!--
   <img src="https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=150&section=header&text=Welcome to Er3busNote&fontSize=40&fontColor=000000&stroke=00FF00&strokeWidth=2&rotate=10&fontAlign=62&fontAlignY=35&animation=twinkling&desc=Er3bus%20Github%20Profile&descAlign=60&descAlignY=62" />
+  -->
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=Welcome to Er3busNote&fontSize=40&fontColor=000000&animation=twinkling&desc=Er3bus%20Github%20Profile&descAlignY=80" />
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -32,12 +35,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=er3busNote&show_icons=true&count_private=true&theme=vue&hide=issues,contribs" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er3busNote&langs_count=5&hide=javascript,html" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=er3busNote&show_icons=true&count_private=true&theme=vue&hide=issues,contribs&exclude_repo=puppet_vm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er3busNote&langs_count=5&hide=javascript,html&exclude_repo=puppet_vm" />
 </p> 
 
 <h3 align="center"> 💬 Contact us 💬 </h3>
