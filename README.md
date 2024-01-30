@@ -2,7 +2,7 @@
   <!--
   <img src="https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=150&section=header&text=Welcome to Er3busNote&fontSize=40&fontColor=000000&stroke=00FF00&strokeWidth=2&rotate=10&fontAlign=62&fontAlignY=35&animation=twinkling&desc=Er3bus%20Github%20Profile&descAlign=60&descAlignY=62" />
   -->
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=Welcome to Er3busNote&fontSize=40&fontColor=000000&animation=twinkling&desc=Er3bus%20Github%20Profile&descAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=Welcome%20to%20Er3busNote&fontSize=40&fontColor=000000&animation=twinkling&desc=Er3bus%20Github%20Profile&descAlignY=80" />
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
