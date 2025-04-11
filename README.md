@@ -35,8 +35,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=er3busNote&show_icons=true&count_private=true&theme=vue&hide=issues,contribs&exclude_repo=puppet_vm" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er3busNote&langs_count=5&hide=javascript,html&exclude_repo=puppet_vm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=er3busNote&show_icons=true&count_private=true&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False&hide=contribs&exclude_repo=puppet_vm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er3busNote&&layout=compact&langs_count=5&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False&hide=javascript,html&exclude_repo=puppet_vm" />
 </p> 
 
 <h3 align="center"> 💬 Contact us 💬 </h3>
@@ -48,12 +48,9 @@
   <a href="https://www.instagram.com/qudwn0768"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/qudwn0768"/></a>&nbsp
   <a href="mailto:qudwn0768@naver.com"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=qudwn0768@naver.com"/></a>
 </p>
-<br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fer3busNote&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=er3busNote&theme=dark"/>
 </p>
 
 <!--
